@@ -1,8 +1,7 @@
 # MazeRunner
 Displays shortest path from a .pbm maze
 
-Input: ./MazeRunner > maze.pbm
-Output: .pbm maze content
+Input: ./MazeRunner < maze.pbm > path.pbm
+Output: paste the shortest path in path.pbm
 
-Paste the output in a .pbm file to see the shortest path.
-(pbm format => P2)
+***Made for P2 format***
